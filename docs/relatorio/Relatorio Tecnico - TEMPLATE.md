@@ -1,21 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**SIP - Predial Security**
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Engenharia de Software**
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Os membros do grupo são: 
+- Anthony Luan da Silva Santos
+- Bárbara Mattioly Andrade
+- Laura Enísia Rodrigues Melo
+- Marco Antônio Miranda Ferreira
+- Naára Leite Garção
+- Pedro Henrique Pimenta Ribeiro
+- Raul Phelipe Salles de Souza
 
 # Estrutura do Documento
 
@@ -172,17 +173,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | **João Wagner**       | Dar sugestões de melhoria para o sistema e indicar empresas e startups para realizar parcerias com o sistema                | Obter a melhor solução possível para que utilize juntamente aos moradores do meu prédio |
 | **Antônio Carlos**  | Saber todos os equipamentos de segurança presentes no prédio em que trabalho           | Para que possa saber qual procurar em caso de emergências e auxiliar os moradores               |
 | **Antônio Carlos**       | Saber como agir e para quem ligar, em casos de emergência no prédio                | Ser capaz de agir com segurança para me salvar e ajudar a todos os moradores do prédio em caso de emergências |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
