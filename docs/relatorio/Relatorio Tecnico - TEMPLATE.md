@@ -164,14 +164,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Lilian  | Possuir funções de administradora do sistema         | possa enviar o código do prédio para os moradores se conectarem ao sistema do edifício e tenha permissão para editar os dados em tela, como adicionar os equipamentos de segurança por andar               |
-| Lilian       | Cadastrar os equipamentos de segurança existentes em cada andar e as respectivas datas de revisão de cada um dos equipamentos, tal qual seu lote         | Tornar visível aos moradores os equipamentos de segurança que existem em cada andar, para saberem onde buscar em caso de alguma situação de emergência no prédio, assim como dar transparência a data de revisão de cada um desses equipamentos |
-| Lilian  | Adicionar a data de revisão de cada um dos equipamentos de segurança presentes no prédio           | Manter um controle e fornecer transparência a todos os moradores, para que se sintam seguro com a revisão dos equipamentos em dia               |
-| João Wagner       | Saber todos os equipamentos de segurança presentes no prédio                 | Que eu saiba o que procurar em caso de emergências |
-| João Wagner  | Saber como agir e para quem ligar, em casos de emergência no prédio          | Ser capaz de manter a calma e agir com segurança para me salvar e salvar os outros em caso de emergências            |
-| João Wagner       | Dar sugestões de melhoria para o sistema e indicar empresas e startups para realizar parcerias com o sistema                | Obter a melhor solução possível para que utilize juntamente aos moradores do meu prédio |
-| Antônio Carlos  | Saber todos os equipamentos de segurança presentes no prédio em que trabalho           | Para que possa saber qual procurar em caso de emergências e auxiliar os moradores               |
-| Antônio Carlos       | Saber como agir e para quem ligar, em casos de emergência no prédio                | Ser capaz de agir com segurança para me salvar e ajudar a todos os moradores do prédio em caso de emergências |
+| **Lilian**  | Possuir funções de administradora do sistema         | possa enviar o código do prédio para os moradores se conectarem ao sistema do edifício e tenha permissão para editar os dados em tela, como adicionar os equipamentos de segurança por andar               |
+| **Lilian**       | Cadastrar os equipamentos de segurança existentes em cada andar e as respectivas datas de revisão de cada um dos equipamentos, tal qual seu lote         | Tornar visível aos moradores os equipamentos de segurança que existem em cada andar, para saberem onde buscar em caso de alguma situação de emergência no prédio, assim como dar transparência a data de revisão de cada um desses equipamentos |
+| **Lilian**  | Adicionar a data de revisão de cada um dos equipamentos de segurança presentes no prédio           | Manter um controle e fornecer transparência a todos os moradores, para que se sintam seguro com a revisão dos equipamentos em dia               |
+| **João Wagner**       | Saber todos os equipamentos de segurança presentes no prédio                 | Que eu saiba o que procurar em caso de emergências |
+| **João Wagner**  | Saber como agir e para quem ligar, em casos de emergência no prédio          | Ser capaz de manter a calma e agir com segurança para me salvar e salvar os outros em caso de emergências            |
+| **João Wagner**       | Dar sugestões de melhoria para o sistema e indicar empresas e startups para realizar parcerias com o sistema                | Obter a melhor solução possível para que utilize juntamente aos moradores do meu prédio |
+| **Antônio Carlos**  | Saber todos os equipamentos de segurança presentes no prédio em que trabalho           | Para que possa saber qual procurar em caso de emergências e auxiliar os moradores               |
+| **Antônio Carlos**       | Saber como agir e para quem ligar, em casos de emergência no prédio                | Ser capaz de agir com segurança para me salvar e ajudar a todos os moradores do prédio em caso de emergências |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
