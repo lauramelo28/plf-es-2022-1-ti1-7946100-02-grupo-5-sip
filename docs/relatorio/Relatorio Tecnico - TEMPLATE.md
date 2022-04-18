@@ -145,6 +145,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-05| O site deve permitir ao usuário visualizar a data de revisão dos equipamentos de segurança do prédio e o lote a que pertencem   | MÉDIA |
 |RF-06| O site deverá permitir ao administrador adicionar e remover equipamentos de segurança por andar  | ALTA |
 |RF-07| O site deverá apresentar uma tela com sugestões de melhoria dadas pelo usuário para melhorar o sistema, assim como, sugestões de empresas para realizar parceria | BAIXA |
+|RF-08|O site deverá apresentar uma tela com alguns tipos de emergência e um vídeo e texto descritivo exemplificando como agir | ALTA |
+|RF-09|O site deverá apresentar na tela os telefones de emergência | MÉDIA |
 
 
 
