@@ -171,6 +171,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Projeto de Interface
 
 Para a montagem de todas as telas do sistema, nossa principal preocupação foi na usabilidade, buscando tornar a interface o mais limpa e intuitiva possível para o usuário.
+O protótipo das telas foi feito através do figma.
+Link de acesso ao protótipo interativo: https://www.figma.com/file/96nd2RS4AxKHqzXrUbuMJP/Prot%C3%B3tipo-SIP?node-id=0%3A1
 
 ## User Flow
 
