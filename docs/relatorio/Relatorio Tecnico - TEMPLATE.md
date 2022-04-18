@@ -85,11 +85,8 @@ O público  alvo deste trabalho são os frequentadores de um prédio residencial
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+As personas e potenciais usuárias da solução SIP são os frequentadores de um prédio residencial, dentre eles a síndica, os moradores e o porteiro.
+As ferramentar utilizadas para montar as personas e o mapa de empatia foram: O miro, onde foram estruturados todos os dados do processo de design thinking após as entrevistas e o Canva, por onde foi feito o template das personas.
 
 ## Personas e Mapas de Empatia
 
