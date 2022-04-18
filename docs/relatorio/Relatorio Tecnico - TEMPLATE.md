@@ -93,31 +93,27 @@ O público  alvo deste trabalho são os frequentadores de um prédio residencial
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Personas**
 
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
 > **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+> Lilian - Síndica
+> ![Persona 1 - Síndica](imaages/../images/Persona1.jpeg)
 
+> João Wagner - Morador
+> ![Persona 2 - Morador](imaages/../images/Persona2.jpeg)
+
+> Antonio Carlos - Porteiro
+> ![Persona 3 - Porteiro](imaages/../images/Persona3.jpeg)
+
+**Mapas de Empatia**
+> Lilian - Síndica
+> ![Persona 1 - Síndica](imaages/../images/MapaEmpatia2.JPG)
+
+> João Wagner - Morador
+> ![Persona 2 - Morador](imaages/../images/MapaEmpatia.JPG)
+
+> Antonio Carlos - Porteiro
+> ![Persona 3 - Porteiro](imaages/../images/MapaEmpatia3.JPG)
 
 ## Histórias de Usuários
 
@@ -207,11 +203,13 @@ Para a montagem de todas as telas do sistema, nossa principal preocupação foi 
 >    - Perfis cadastrados;
 >    - Reclame aqui (Fale conosco);
 >    - E-mail de contato.
- [COLOCAR FOTO]
+
+> ![Tela Inicial](imaages/../images/img1.png)
  
  2. **Tela 2 - Login**
 >  Tela de Login apresenta os espaços para inserir o nome de usuário, senha, logo e os botões de Entrar e o de Cadastrar.
-[COLOCAR FOTO]
+
+> ![Tela de login](imaages/../images/img2.JPG)
 
 3. **Tela 3 - Cadastro**
 >  Tela de Cadastro apresenta os espaços de:
@@ -223,15 +221,18 @@ Para a montagem de todas as telas do sistema, nossa principal preocupação foi 
 >    - Opção de concordância com os termos de uso do SIP;
 >    - Botão de cadastro como síndico;
 >    - Botão de cadastro como usuário.
-[COLOCAR FOTO]
+
+> ![Tela de Cadastro](imaages/../images/img3.png)
 
 3.1. **Tela 3.1 - Síndico**
 >  Tela em que se é selecionado o edifício e o código de acesso do síndico do prédio para efetuar o cadastro.
-[COLOCAR FOTO]
+
+> ![Tela para código de acesso do síndico](imaages/../images/img4.png)
 
 3.2 **Tela 3.2 - Confirmação de Cadastro**
 >  Tela onde se é informado a condição do cadastro e é instruída a confirmação da mesma na caixa de entrada do e-mail do usuário e o botão de iniciar
-[COLOCAR FOTO]
+
+> ![Tela de Confirmação de Cadastro](imaages/../images/img5.png)
 
 4. **Tela 4 - Principal**
 >  Tela onde se encontram o Logo, botões de:
@@ -241,35 +242,51 @@ Para a montagem de todas as telas do sistema, nossa principal preocupação foi 
 >    - Direcionamento para o grupo do Whatsapp do prédio;
 >    - Avaliações do sistema;
 >    - Informações sobre o projeto.
-[COLOCAR FOTO]
+
+> ![Tela Principal](imaages/../images/img6.png)
 
 5. **Tela 5 - Mapa Predial**
 >  Tela em que se encontram a descrição, localização e instrução das datas de revisão e vistoria dos equipamentos presentes em cada andar, além dos botões de:
 >    - Mapa do prédio;
 >    - Como agir em emergências;
 >    - Gestão de melhorias.
-[COLOCAR FOTO]
+
+> ![Tela do mapa predial](imaages/../images/img7.png)
 
 5.1. **Tela 5.1 - Data de Revisão e Lote do Equipamento**
 >  Tela em que se é apresentado o nome do equipamento, data última revisão, data da próxima revisão e do lote.
 
+> ![Tela de date de revisão e lote do equipamento](imaages/../images/img8.png)
+
 5.2 **Tela 5.2 - Adição de Equipamentos Por Andar**
 >  Tela em que se é informado o andar do edifício e quais são os equipamentos de segurança a serem adicionados naquele andar
+
+> ![Tela de adição de equipamentos](imaages/../images/img9.png)
 
 5.3 **Tela 5.3 - Edição de Equipamentos Por Andar**
 >  Tela em que são efetuadas as mudanças dos dados de determinados equipamentos de segurança, assim como extintores e câmeras de segurança.
 
+> ![Tela de Edição de equipamentos](imaages/../images/img10.png)
+
 6. **Tela 6 - Como Agir em Emergências**
 >  Tela em que são apresentados botões para os diferentes tipos de emergências possíveis, juntamente com os números de telefone mais úteis para ocasiões especiais.
+
+> ![Tela de como agir em emergências](imaages/../images/img11.png)
 
 6.1. **Tela 6.1 - Item Como Agir em Emergências**
 >  Tela onde se é apresentado um problema, em que se é fornecido maneiras de ação para atuar em cada problema específico, com conteúdos entregues em forma de vídeo e texto visando instruir o usuário com conhecimento útil para tal ocasião.
 
+> ![Item de descrição de como agir em emergências](imaages/../images/img11.png)
+
 7. **Tela 7 - Gestão de Melhorias**
 >  Tela onde estão presentes espaços para a sugestão de ideias para melhoria, botão do reclame aqui e o botão para a indicação e sugestão de empresas e startups que estejam dispostas a atuarem junto ao nosso programa e a tecer parcerias e patrocínios juntamente aos edifícios usuários do nosso sistema.
 
+> ![Tela de gestão de melhorias](imaages/../images/img12.png)
+
 8. **Tela 8 - Sobre a Empresa**
 >  Tela onde será impresso todas as informações sobre a nossa empresa, os contribuidores nossas parcerias e patrocínios.
+
+> ![Tela sobre a empresa](imaages/../images/img13.png)
 
 # Metodologia
 
